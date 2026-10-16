@@ -74,8 +74,6 @@ Add the next project below in the same format. Keep this list to the best 2-3 pr
 
 ## GitHub analytics
 
-All figures are generated from my GitHub data by a daily workflow, with nothing typed by hand. An empty card means there isn't data to show yet.
-
 <p align="center">
 <img src="assets/repo-counter.svg" alt="Ring chart: number of public repositories, one segment per repository" width="43%">
 <img src="assets/stats-card.svg" alt="Statistics card: stars and forks received; commits, pull requests and issues in the last 12 months" width="55%">
@@ -83,9 +81,3 @@ All figures are generated from my GitHub data by a daily workflow, with nothing 
 <img src="assets/languages-donut.svg" alt="Donut chart: share of code by programming language across public project repositories" width="43%">
 <img src="assets/contributions.svg" alt="Heatmap: daily contributions over the last 12 months" width="55%">
 </p>
-
-<!--STATS:START-->
-**Live snapshot:** will appear after the first automated update (Actions → Update profile stats → Run workflow).
-<!--STATS:END-->
-
-<details>
