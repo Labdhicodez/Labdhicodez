@@ -10,7 +10,7 @@
 <tr>
 <td width="60%" valign="middle">
 
-Hi, I'm **Labdhi Belani**, a first-year Computer Science & Engineering student building strong foundations in programming, operating systems, discrete mathematics and digital logic, while exploring AI/ML and scientific computing.
+Hi, I'm **Labdhi**, a first-year Computer Science & Engineering student building strong foundations in programming, operating systems, discrete mathematics and digital logic, while exploring AI/ML and scientific computing.
 
 I like research-style "why" questions. This profile is where I document what I'm learning and building.
 
