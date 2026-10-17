@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="300" viewBox="0 0 380 300" role="img" aria-labelledby="ld-t ld-d">
 <title id="ld-t">Language distribution</title>
-<desc id="ld-d">Language chart waiting for its first update.</desc>
+<desc id="ld-d">Language analytics will appear as my project portfolio grows.</desc>
 <defs><linearGradient id="ld-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C1F41"/><stop offset="1" stop-color="#0B2249"/></linearGradient></defs>
 <rect x="0.75" y="0.75" width="378.5" height="298.5" rx="14" fill="url(#ld-bg)" stroke="#133C6F" stroke-width="1.5"/>
 <text x="22" y="36" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#E8EEF7" text-anchor="start">Languages</text>
 <circle cx="105" cy="150" r="64" fill="none" stroke="#133C6F" stroke-width="28" stroke-dasharray="3 6" opacity="0.9"/>
 <text x="105" y="148" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="400" fill="#7FB7D6" text-anchor="middle" letter-spacing="1.5">LANGUAGE</text>
 <text x="105" y="164" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="400" fill="#7FB7D6" text-anchor="middle" letter-spacing="1.5">MIX</text>
-<text x="205" y="134" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#E8EEF7" text-anchor="start">Waiting for the first</text><text x="205" y="152" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#9FB1C9" text-anchor="start">automated update</text>
+<text x="205" y="134" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#E8EEF7" text-anchor="start">Language analytics will</text><text x="205" y="152" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#9FB1C9" text-anchor="start">appear as my project</text><text x="205" y="170" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#9FB1C9" text-anchor="start">portfolio grows.</text>
 <text x="22" y="272" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="400" fill="#9FB1C9" text-anchor="start">Excludes this profile repository</text>
 <text x="22" y="288" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="400" fill="#9FB1C9" text-anchor="start" opacity="0.85">Source: GitHub REST API (languages by bytes)</text>
 
