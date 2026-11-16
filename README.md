@@ -58,15 +58,6 @@ https://img.shields.io/badge/<Label>-<status>-133C6F?style=flat-square&logo=<sim
 
 ---
 
-## Projects in development
-
-**Scientific Literature Contradiction Finder** · *prototype, university project*
-
-- **Problem:** Papers on the same question can seem to disagree. Is it a genuine contradiction, or a difference in context?
-- **Approach:** An LLM (Gemini) compares papers directly and returns structured JSON that classifies each apparent disagreement as genuine, contextual, partial, or lacking evidence, instead of summarising each paper alone. The first test case is four sim-to-real robotics papers.
-- **Built with:** Python, Streamlit, Gemini API
-- **Status:** In development. Repository not public yet.
-
 <!-- When the repo is public, add a line:  - **Repository:** [Labdhicodez/REPO-NAME](https://github.com/Labdhicodez/REPO-NAME)
 Add the next project below in the same format. Keep this list to the best 2-3 projects. -->
 
