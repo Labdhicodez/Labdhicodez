@@ -19,7 +19,7 @@ I use this space to document my learning, explore research ideas, and share tech
 
 </td>
     <td width="30%" align="center" valign="middle">
-      <img src="assets/215837.gif" width="160" alt="">
+      <img src="assets/215837.gif" width="200" alt="">
     </td>
   </tr>
 </table>
