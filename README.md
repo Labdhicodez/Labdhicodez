@@ -24,7 +24,7 @@ I use this space to document my learning, explore research ideas, and share tech
   </tr>
 </table>
 
-## Tech stack
+## 𝒯ech stack
 
 </table>
 
@@ -69,7 +69,7 @@ I use this space to document my learning, explore research ideas, and share tech
   </tbody>
 </table>
 
-## Connect with me
+## 𝒞onnect with me
 
 <a href="https://www.linkedin.com/in/labdhi-belani"><img src="https://img.shields.io/badge/LINKEDIN-0B2347?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.linkedin.com/in/labdhi-belani"><img src="https://img.shields.io/badge/CONNECT-315D91?style=for-the-badge" alt="Connect"></a>
