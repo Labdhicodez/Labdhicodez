@@ -6,11 +6,7 @@
 
 ---
 
-<img
-  src="assets/astronaut-floating.gif"
-  alt="Pixel-art astronaut gently floating through space"
-  width="100%"
->
+<img src="assets/astronaut-floating.gif" alt="Pixel-art astronaut gently floating through space" width="100%">
 
 <table>
   <thead>
