@@ -16,8 +16,6 @@ I use this space to document my learning, explore research ideas, and share tech
 
 ## Tech stack
 
-Labelled by where I actually am with each one.
-
 <table>
   <thead>
     <tr>
