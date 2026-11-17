@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-header.gif" alt="" width="100%">
+<img src="assets/space-header.gif" alt="" width="100%">
 
 </div>
 
