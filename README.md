@@ -24,6 +24,8 @@ I use this space to document my learning, explore research ideas, and share tech
   </tr>
 </table>
 
+## Tech stack
+
 </table>
 
 <table>
