@@ -63,5 +63,3 @@ I use this space to document my learning, explore research ideas, and share tech
 <a href="https://www.linkedin.com/in/labdhi-belani"><img src="https://img.shields.io/badge/CONNECT-315D91?style=for-the-badge" alt="Connect"></a>
 <a href="mailto:labdhibelanicodez11@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B2347?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="mailto:labdhibelanicodez11@gmail.com"><img src="https://img.shields.io/badge/WRITE%20TO%20ME-315D91?style=for-the-badge" alt="Write to me"></a>
-<a href="https://github.com/Labdhicodez"><img src="https://img.shields.io/badge/GITHUB-0B2347?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://github.com/Labdhicodez"><img src="https://img.shields.io/badge/LABDICODEZ-315D91?style=for-the-badge" alt="Labdhicodez"></a>
