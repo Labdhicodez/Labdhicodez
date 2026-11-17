@@ -1,5 +1,25 @@
 <div align="center">
 
+## About
+
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+
+I'm a first-year B.Tech undergraduate in Computer Science and Engineering, building a foundation in programming, mathematics, algorithms, and computer systems.
+
+My primary interests lie in Artificial Intelligence and Machine Learning, particularly their research applications. I'm curious about how learning algorithms work, how models can be evaluated and interpreted, and how computational methods can help investigate complex scientific problems.
+
+I use this space to document my learning, explore research ideas, and share technical work as I develop it.
+
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/astronaut-floating.gif"
+           alt="Pixel-art astronaut floating through space"
+           width="100%">
+    </td>
+  </tr>
+</table>
 <img src="assets/space-header.gif" alt="" width="100%">
 
 </div>
