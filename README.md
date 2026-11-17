@@ -18,7 +18,7 @@ My primary interests lie in Artificial Intelligence and Machine Learning, partic
 I use this space to document my learning, explore research ideas, and share technical work as I develop it.
 
 </td>
-    <td width="50%" align="center" valign="middle">
+    <td width="10%" align="center" valign="middle">
       <img src="assets/215837.gif" width="200" alt="">
     </td>
   </tr>
