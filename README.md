@@ -1,4 +1,9 @@
 <div align="center">
+<img src="assets/space-header.gif" alt="" width="100%">
+
+</div>
+
+---
 
 ## About
 
@@ -12,21 +17,12 @@ My primary interests lie in Artificial Intelligence and Machine Learning, partic
 
 I use this space to document my learning, explore research ideas, and share technical work as I develop it.
 
-    </td>
+  </td>
     <td width="40%" align="center" valign="middle">
-      <img src="assets/astronaut-floating.gif"
-           alt="Pixel-art astronaut floating through space"
-           width="100%">
+      <img src="assets/astronaut-floating.gif" alt="Pixel-art astronaut floating through space" width="100%">
     </td>
   </tr>
 </table>
-<img src="assets/space-header.gif" alt="" width="100%">
-
-</div>
-
----
-
-<img src="assets/astronaut-floating.gif" alt="Pixel-art astronaut gently floating through space" width="100%">
 
 <table>
   <thead>
