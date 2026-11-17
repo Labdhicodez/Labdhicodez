@@ -6,15 +6,11 @@
 
 ---
 
-## About
-
-I'm a first-year B.Tech undergraduate in Computer Science and Engineering, building a foundation in programming, mathematics, algorithms, and computer systems.
-
-My primary interests lie in Artificial Intelligence and Machine Learning, particularly their research applications. I'm curious about how learning algorithms work, how models can be evaluated and interpreted, and how computational methods can help investigate complex scientific problems.
-
-I use this space to document my learning, explore research ideas, and share technical work as I develop it.
-
-## Tech stack
+<img
+  src="assets/astronaut-floating.gif"
+  alt="Pixel-art astronaut gently floating through space"
+  width="100%"
+>
 
 <table>
   <thead>
